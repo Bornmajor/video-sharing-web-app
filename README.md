@@ -2,10 +2,10 @@
 Video sharing application built with php which is intergrated with vimeo api (for hosting videos) and img-bb (for hosting pictures/thumbnails).
 
 ## Technologies
-1.Vimeo api
-2.img.bb api
-3.Php
-4.Javascript
+1. Vimeo api
+2. img.bb api
+3. Php
+4. Javascript
 
 
 ## Basic features like other video sharing apps
